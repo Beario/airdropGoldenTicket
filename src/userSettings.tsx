@@ -107,7 +107,7 @@ export const whitelistSettings: WhitelistSettings = {
 
   //Wallet Title and Description
   title: "Shiny Things",
-  desc: "This NFT is only for those that have minted and held for the entire week, without listing",
+  desc: "This NFT is only for those that held for 24hrs during week 3",
 
   //Enable Custom HTML Below
   enableCustomHTML: false,
